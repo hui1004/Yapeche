@@ -59,7 +59,7 @@ export default {
 /* 白色背景太单调了 来点背景 */
 html {
   color: rgb(222,222,222);
-  background: rgb(0,43,54); 
+  background: rgb(0,0,0); 
 }
 /* 文字太近了 */
 .styleEditor {
